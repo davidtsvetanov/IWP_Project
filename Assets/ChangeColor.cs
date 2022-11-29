@@ -23,8 +23,17 @@ public class ChangeColor : MonoBehaviour
         if (collision.gameObject.tag == "RedBall")
         {
             gameObject.GetComponent<Renderer>().material.color = Color.red;
-            //If the GameObject has the same tag as specified, output this message in the console
-            Debug.Log("Do something else here");
+            
+        }
+        if (collision.gameObject.tag == "BlueBall")
+        {
+            gameObject.GetComponent<Renderer>().material.color = Color.blue;
+            
+        }
+        if (collision.gameObject.tag == "YellowBall")
+        {
+            gameObject.GetComponent<Renderer>().material.color = Color.yellow;
+            
         }
     }
 }
