@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - RedBall
+  - Hands
   layers:
   - Default
   - TransparentFX
@@ -13,8 +14,8 @@ TagManager:
   - Water
   - UI
   - Grip
-  - 
-  - 
+  - Hand
+  - Interactive
   - 
   - 
   - 
