@@ -3521,6 +3521,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prototype (+ couches)- Phase 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3346351847758722960, guid: 7a4343f53bd21744bbb6d2f19b65547d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ef43a2018871034fa7377a7cb9863c8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a4343f53bd21744bbb6d2f19b65547d, type: 3}
 --- !u!1 &608175388 stripped
@@ -7034,7 +7038,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1568621549
 MonoBehaviour:
   m_ObjectHideFlags: 0
