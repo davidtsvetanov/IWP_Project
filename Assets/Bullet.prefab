@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4905710223116661116}
   - component: {fileID: 4905710223116661117}
   - component: {fileID: 4905710223116661118}
+  - component: {fileID: 1345942324905887727}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: RedBall
@@ -94,8 +95,8 @@ SphereCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Radius: 0.5532416
+  m_Center: {x: 0.053241625, y: 0, z: 0}
 --- !u!54 &4905710223116661118
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -111,4 +112,16 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
+--- !u!114 &1345942324905887727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4905710223116661119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aa1c5956ab9b8a4b9a675da4eefb9ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
