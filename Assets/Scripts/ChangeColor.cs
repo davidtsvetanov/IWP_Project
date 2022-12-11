@@ -20,20 +20,25 @@ public class ChangeColor : MonoBehaviour
         
 
         //Check for a match with the specific tag on any GameObject that collides with your GameObject
-        if (collision.gameObject.tag == "RedBall")
+        if (collision.gameObject.tag == "rBullet")
         {
             gameObject.GetComponent<Renderer>().material.color = Color.red;
             
         }
-        if (collision.gameObject.tag == "BlueBall")
+        if (collision.gameObject.tag == "blueBullet")
         {
             gameObject.GetComponent<Renderer>().material.color = Color.blue;
             
         }
-        if (collision.gameObject.tag == "YellowBall")
+        if (collision.gameObject.tag == "yBullet")
         {
             gameObject.GetComponent<Renderer>().material.color = Color.yellow;
             
+        }
+        if (collision.gameObject.tag == "blackBullet")
+        {
+            gameObject.GetComponent<Renderer>().material.color = Color.black;
+
         }
     }
 }

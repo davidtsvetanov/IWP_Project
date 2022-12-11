@@ -7,6 +7,13 @@ TagManager:
   - RedBall
   - Hands
   - PaintWall
+  - Bomb
+  - Fruit
+  - Sword
+  - rBullet
+  - blackBullet
+  - yBullet
+  - blueBullet
   layers:
   - Default
   - TransparentFX
@@ -17,7 +24,7 @@ TagManager:
   - Grip
   - Hand
   - Interactive
-  - 
+  - Fruit
   - 
   - 
   - 
