@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 27f75fb974d9d254f89cfb808c8fb6af
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 87753344953571410
+    second: Plane.030|Camera|Take 001|Layer 001
+  - first:
+      74: -1271909591719045460
+    second: Plane.030|Directional Light|Take 001|Layer 001
+  - first:
+      74: -7650720048023559144
+    second: Plane.030|Mesh|Take 001|Layer 001
+  - first:
+      74: 6814404115927003683
+    second: Plane.030|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -4179389058823886132
+    second: Plane.030|Mesh|Take 001|Layer 001.002
+  - first:
+      74: 8973999180187900580
+    second: Plane.030|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -4444056447672056518
+    second: Plane.030|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -6939034217516947207
+    second: Plane.030|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -5506186092017366541
+    second: Plane.030|Mesh|Take 001|Layer 001.006
+  - first:
+      74: 127214241551024789
+    second: Plane.030|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 3665727850576756499
+    second: Plane.030|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -9160284453538267280
+    second: Plane.030|Plane.030Action
+  - first:
+      74: -1123966201593490614
+    second: Plane.030|Plane.030Action.001
+  - first:
+      74: -4439517156035762649
+    second: Plane.030|Texture Group|Take 001|Layer 001
+  - first:
+      74: -9050427278930875062
+    second: Plane.033|Camera|Take 001|Layer 001
+  - first:
+      74: -3599980750368897904
+    second: Plane.033|Directional Light|Take 001|Layer 001
+  - first:
+      74: -9107146180905345497
+    second: Plane.033|Mesh|Take 001|Layer 001
+  - first:
+      74: -2991338852162531789
+    second: Plane.033|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -3469828583238337781
+    second: Plane.033|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -7371255870078772466
+    second: Plane.033|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 6803633591251035589
+    second: Plane.033|Mesh|Take 001|Layer 001.004
+  - first:
+      74: 1932334910141773625
+    second: Plane.033|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -43922500551386461
+    second: Plane.033|Mesh|Take 001|Layer 001.006
+  - first:
+      74: 5888963351882465921
+    second: Plane.033|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 8987463085147280720
+    second: Plane.033|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -1259722635157550377
+    second: Plane.033|Plane.030Action
+  - first:
+      74: -2633780977139699100
+    second: Plane.033|Plane.030Action.001
+  - first:
+      74: -1821034345308611984
+    second: Plane.033|Texture Group|Take 001|Layer 001
+  - first:
+      74: -5511430098057934003
+    second: Plane.034|Camera|Take 001|Layer 001
+  - first:
+      74: -6715661131123773014
+    second: Plane.034|Directional Light|Take 001|Layer 001
+  - first:
+      74: -4974090238014099172
+    second: Plane.034|Mesh|Take 001|Layer 001
+  - first:
+      74: 4817935338725381173
+    second: Plane.034|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -1120631333331445168
+    second: Plane.034|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -8182880957303949024
+    second: Plane.034|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 4637028395209303305
+    second: Plane.034|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -241909929825056104
+    second: Plane.034|Mesh|Take 001|Layer 001.005
+  - first:
+      74: 5778803083914765228
+    second: Plane.034|Mesh|Take 001|Layer 001.006
+  - first:
+      74: -3022164735171988907
+    second: Plane.034|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 8104202821601614582
+    second: Plane.034|Mesh|Take 001|Layer 001.008
+  - first:
+      74: 1132612674569712778
+    second: Plane.034|Plane.030Action
+  - first:
+      74: -6027036651528997077
+    second: Plane.034|Plane.030Action.001
+  - first:
+      74: 530189127738029331
+    second: Plane.034|Texture Group|Take 001|Layer 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
