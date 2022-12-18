@@ -4791,6 +4791,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8670652249317926771, guid: 27f75fb974d9d254f89cfb808c8fb6af, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7406611496217057510, guid: 27f75fb974d9d254f89cfb808c8fb6af, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7395812814529492251, guid: 27f75fb974d9d254f89cfb808c8fb6af, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2832444478212968183, guid: 27f75fb974d9d254f89cfb808c8fb6af, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -1857309847194865932, guid: 27f75fb974d9d254f89cfb808c8fb6af, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -24869,7 +24885,7 @@ MeshRenderer:
   - {fileID: 4106183643439610103, guid: 9fccdcf79dd49754eb465ad372736a6f, type: 3}
   - {fileID: 1167716875115762238, guid: 9fccdcf79dd49754eb465ad372736a6f, type: 3}
   - {fileID: -6805032392625046507, guid: 9fccdcf79dd49754eb465ad372736a6f, type: 3}
-  - {fileID: -2481429421539315611, guid: 9fccdcf79dd49754eb465ad372736a6f, type: 3}
+  - {fileID: 2100000, guid: a7b42b6409c9f5242af9b1bbcb9df923, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
