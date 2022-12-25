@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 72881797309939024}
   m_Layer: 0
   m_Name: Cookie_Yellow
-  m_TagString: yBullet
+  m_TagString: YellowCookie
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

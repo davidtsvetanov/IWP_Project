@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 845688f2143ac764cbefd067705c79ea
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 87753344953571410
+    second: Plane.030|Camera|Take 001|Layer 001
+  - first:
+      74: -1271909591719045460
+    second: Plane.030|Directional Light|Take 001|Layer 001
+  - first:
+      74: 2610728628056223342
+    second: Plane.030|IndoorftArecaPalmArtificialTreePot|Take 001|BaseLayer
+  - first:
+      74: -5407095736961418240
+    second: Plane.030|IndoorftArecaPalmArtificialTreePot|Take 001|BaseLayer.001
+  - first:
+      74: -6051755898845291601
+    second: Plane.030|IndoorftArecaPalmArtificialTreePot|Take 001|BaseLayer.002
+  - first:
+      74: -8403383059558043223
+    second: Plane.030|IndoorftArecaPalmArtificialTreeRocks|Take 001|BaseLayer
+  - first:
+      74: 1220091355019093300
+    second: Plane.030|IndoorftArecaPalmArtificialTreeRocks|Take 001|BaseLayer.001
+  - first:
+      74: -7727987434663150575
+    second: Plane.030|IndoorftArecaPalmArtificialTreeRocks|Take 001|BaseLayer.002
+  - first:
+      74: 7392092224125524107
+    second: Plane.030|IndoorftArecaPalmArtificialTree|Take 001|BaseLayer
+  - first:
+      74: 8655215483995018737
+    second: Plane.030|IndoorftArecaPalmArtificialTree|Take 001|BaseLayer.001
+  - first:
+      74: 3286186353654377753
+    second: Plane.030|IndoorftArecaPalmArtificialTree|Take 001|BaseLayer.002
+  - first:
+      74: -7650720048023559144
+    second: Plane.030|Mesh|Take 001|Layer 001
+  - first:
+      74: 6814404115927003683
+    second: Plane.030|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -4179389058823886132
+    second: Plane.030|Mesh|Take 001|Layer 001.002
+  - first:
+      74: 8973999180187900580
+    second: Plane.030|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -4444056447672056518
+    second: Plane.030|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -6939034217516947207
+    second: Plane.030|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -5506186092017366541
+    second: Plane.030|Mesh|Take 001|Layer 001.006
+  - first:
+      74: 127214241551024789
+    second: Plane.030|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 3665727850576756499
+    second: Plane.030|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -4439517156035762649
+    second: Plane.030|Texture Group|Take 001|Layer 001
+  - first:
+      74: -9050427278930875062
+    second: Plane.033|Camera|Take 001|Layer 001
+  - first:
+      74: -3599980750368897904
+    second: Plane.033|Directional Light|Take 001|Layer 001
+  - first:
+      74: -6293964674075573596
+    second: Plane.033|IndoorftArecaPalmArtificialTreePot|Take 001|BaseLayer
+  - first:
+      74: 4135984333291787006
+    second: Plane.033|IndoorftArecaPalmArtificialTreePot|Take 001|BaseLayer.001
+  - first:
+      74: 4659668172564718465
+    second: Plane.033|IndoorftArecaPalmArtificialTreePot|Take 001|BaseLayer.002
+  - first:
+      74: 1883927278223014881
+    second: Plane.033|IndoorftArecaPalmArtificialTreeRocks|Take 001|BaseLayer
+  - first:
+      74: -7697470267831007869
+    second: Plane.033|IndoorftArecaPalmArtificialTreeRocks|Take 001|BaseLayer.001
+  - first:
+      74: -7060582692835086797
+    second: Plane.033|IndoorftArecaPalmArtificialTreeRocks|Take 001|BaseLayer.002
+  - first:
+      74: 5615266351518988407
+    second: Plane.033|IndoorftArecaPalmArtificialTree|Take 001|BaseLayer
+  - first:
+      74: 4588590858734567695
+    second: Plane.033|IndoorftArecaPalmArtificialTree|Take 001|BaseLayer.001
+  - first:
+      74: -6842219974146588351
+    second: Plane.033|IndoorftArecaPalmArtificialTree|Take 001|BaseLayer.002
+  - first:
+      74: -9107146180905345497
+    second: Plane.033|Mesh|Take 001|Layer 001
+  - first:
+      74: -2991338852162531789
+    second: Plane.033|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -3469828583238337781
+    second: Plane.033|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -7371255870078772466
+    second: Plane.033|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 6803633591251035589
+    second: Plane.033|Mesh|Take 001|Layer 001.004
+  - first:
+      74: 1932334910141773625
+    second: Plane.033|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -43922500551386461
+    second: Plane.033|Mesh|Take 001|Layer 001.006
+  - first:
+      74: 5888963351882465921
+    second: Plane.033|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 8987463085147280720
+    second: Plane.033|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -1821034345308611984
+    second: Plane.033|Texture Group|Take 001|Layer 001
+  - first:
+      74: -5511430098057934003
+    second: Plane.034|Camera|Take 001|Layer 001
+  - first:
+      74: -6715661131123773014
+    second: Plane.034|Directional Light|Take 001|Layer 001
+  - first:
+      74: 7938468676882961134
+    second: Plane.034|IndoorftArecaPalmArtificialTreePot|Take 001|BaseLayer
+  - first:
+      74: -4046404002751735171
+    second: Plane.034|IndoorftArecaPalmArtificialTreePot|Take 001|BaseLayer.001
+  - first:
+      74: -520929273096613917
+    second: Plane.034|IndoorftArecaPalmArtificialTreePot|Take 001|BaseLayer.002
+  - first:
+      74: 6927682587659895483
+    second: Plane.034|IndoorftArecaPalmArtificialTreeRocks|Take 001|BaseLayer
+  - first:
+      74: -302430994074197911
+    second: Plane.034|IndoorftArecaPalmArtificialTreeRocks|Take 001|BaseLayer.001
+  - first:
+      74: -1509285177690398182
+    second: Plane.034|IndoorftArecaPalmArtificialTreeRocks|Take 001|BaseLayer.002
+  - first:
+      74: -8314584336156892135
+    second: Plane.034|IndoorftArecaPalmArtificialTree|Take 001|BaseLayer
+  - first:
+      74: -5170889717718943337
+    second: Plane.034|IndoorftArecaPalmArtificialTree|Take 001|BaseLayer.001
+  - first:
+      74: 5969011754721260913
+    second: Plane.034|IndoorftArecaPalmArtificialTree|Take 001|BaseLayer.002
+  - first:
+      74: -4974090238014099172
+    second: Plane.034|Mesh|Take 001|Layer 001
+  - first:
+      74: 4817935338725381173
+    second: Plane.034|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -1120631333331445168
+    second: Plane.034|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -8182880957303949024
+    second: Plane.034|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 4637028395209303305
+    second: Plane.034|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -241909929825056104
+    second: Plane.034|Mesh|Take 001|Layer 001.005
+  - first:
+      74: 5778803083914765228
+    second: Plane.034|Mesh|Take 001|Layer 001.006
+  - first:
+      74: -3022164735171988907
+    second: Plane.034|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 8104202821601614582
+    second: Plane.034|Mesh|Take 001|Layer 001.008
+  - first:
+      74: 530189127738029331
+    second: Plane.034|Texture Group|Take 001|Layer 001
+  - first:
+      74: 3025336480460127141
+    second: IndoorftArecaPalmArtificialTreePot|Camera|Take 001|Layer 001
+  - first:
+      74: 8711347115769516501
+    second: IndoorftArecaPalmArtificialTreePot|Directional Light|Take 001|Layer 001
+  - first:
+      74: 3245869645825444990
+    second: IndoorftArecaPalmArtificialTreePot|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer
+  - first:
+      74: 7039548317430663454
+    second: IndoorftArecaPalmArtificialTreePot|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.001
+  - first:
+      74: -8934832814398139170
+    second: IndoorftArecaPalmArtificialTreePot|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.002
+  - first:
+      74: -1761919732843518357
+    second: IndoorftArecaPalmArtificialTreePot|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer
+  - first:
+      74: 6467794613950912329
+    second: IndoorftArecaPalmArtificialTreePot|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.001
+  - first:
+      74: 2056249775437592054
+    second: IndoorftArecaPalmArtificialTreePot|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.002
+  - first:
+      74: -803082291787583945
+    second: IndoorftArecaPalmArtificialTreePot|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer
+  - first:
+      74: -4028558213890057745
+    second: IndoorftArecaPalmArtificialTreePot|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.001
+  - first:
+      74: -520179425626619500
+    second: IndoorftArecaPalmArtificialTreePot|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.002
+  - first:
+      74: 4977330358878464329
+    second: IndoorftArecaPalmArtificialTreePot|Mesh|Take 001|Layer 001
+  - first:
+      74: -5417029049230674325
+    second: IndoorftArecaPalmArtificialTreePot|Mesh|Take 001|Layer 001.001
+  - first:
+      74: 1303761046254081900
+    second: IndoorftArecaPalmArtificialTreePot|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -6165124637217148295
+    second: IndoorftArecaPalmArtificialTreePot|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -1013986489737710348
+    second: IndoorftArecaPalmArtificialTreePot|Mesh|Take 001|Layer 001.004
+  - first:
+      74: 916646502493617074
+    second: IndoorftArecaPalmArtificialTreePot|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -6705384630415467328
+    second: IndoorftArecaPalmArtificialTreePot|Mesh|Take 001|Layer 001.006
+  - first:
+      74: 6384035614931613475
+    second: IndoorftArecaPalmArtificialTreePot|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 4074732288588141850
+    second: IndoorftArecaPalmArtificialTreePot|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -3528951855843815614
+    second: IndoorftArecaPalmArtificialTreePot|Texture Group|Take 001|Layer 001
+  - first:
+      74: 6291235107790747773
+    second: IndoorftArecaPalmArtificialTreeRocks|Camera|Take 001|Layer 001
+  - first:
+      74: 2583732163909830870
+    second: IndoorftArecaPalmArtificialTreeRocks|Directional Light|Take 001|Layer
+      001
+  - first:
+      74: 7598778947740790115
+    second: IndoorftArecaPalmArtificialTreeRocks|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer
+  - first:
+      74: -2081473105712262790
+    second: IndoorftArecaPalmArtificialTreeRocks|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.001
+  - first:
+      74: 2883127595914957734
+    second: IndoorftArecaPalmArtificialTreeRocks|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.002
+  - first:
+      74: -6639526452342745589
+    second: IndoorftArecaPalmArtificialTreeRocks|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer
+  - first:
+      74: 2527084673806800014
+    second: IndoorftArecaPalmArtificialTreeRocks|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.001
+  - first:
+      74: -2409779257535150767
+    second: IndoorftArecaPalmArtificialTreeRocks|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.002
+  - first:
+      74: -8163612610181839595
+    second: IndoorftArecaPalmArtificialTreeRocks|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer
+  - first:
+      74: 7645606596526999754
+    second: IndoorftArecaPalmArtificialTreeRocks|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.001
+  - first:
+      74: -8481042526984572651
+    second: IndoorftArecaPalmArtificialTreeRocks|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.002
+  - first:
+      74: 8103525689830771798
+    second: IndoorftArecaPalmArtificialTreeRocks|Mesh|Take 001|Layer 001
+  - first:
+      74: 5901243222069618902
+    second: IndoorftArecaPalmArtificialTreeRocks|Mesh|Take 001|Layer 001.001
+  - first:
+      74: 1486621377559988647
+    second: IndoorftArecaPalmArtificialTreeRocks|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -1392757995284732314
+    second: IndoorftArecaPalmArtificialTreeRocks|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -3304041078774305099
+    second: IndoorftArecaPalmArtificialTreeRocks|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -7435875603915987079
+    second: IndoorftArecaPalmArtificialTreeRocks|Mesh|Take 001|Layer 001.005
+  - first:
+      74: 2062251566591260415
+    second: IndoorftArecaPalmArtificialTreeRocks|Mesh|Take 001|Layer 001.006
+  - first:
+      74: -883853814275006906
+    second: IndoorftArecaPalmArtificialTreeRocks|Mesh|Take 001|Layer 001.007
+  - first:
+      74: -8174613951228243047
+    second: IndoorftArecaPalmArtificialTreeRocks|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -3313605229144533425
+    second: IndoorftArecaPalmArtificialTreeRocks|Texture Group|Take 001|Layer 001
+  - first:
+      74: -3271111075799214230
+    second: IndoorftArecaPalmArtificialTree|Camera|Take 001|Layer 001
+  - first:
+      74: -4679281496010634061
+    second: IndoorftArecaPalmArtificialTree|Directional Light|Take 001|Layer 001
+  - first:
+      74: 1962844852432531184
+    second: IndoorftArecaPalmArtificialTree|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer
+  - first:
+      74: -1762455330374061294
+    second: IndoorftArecaPalmArtificialTree|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.001
+  - first:
+      74: -8935509601443444703
+    second: IndoorftArecaPalmArtificialTree|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.002
+  - first:
+      74: 995556555941924644
+    second: IndoorftArecaPalmArtificialTree|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer
+  - first:
+      74: 760367489461532868
+    second: IndoorftArecaPalmArtificialTree|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.001
+  - first:
+      74: -8074155231801358679
+    second: IndoorftArecaPalmArtificialTree|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.002
+  - first:
+      74: -629647750299156625
+    second: IndoorftArecaPalmArtificialTree|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer
+  - first:
+      74: -6675555011774899658
+    second: IndoorftArecaPalmArtificialTree|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.001
+  - first:
+      74: 2888081398587735254
+    second: IndoorftArecaPalmArtificialTree|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.002
+  - first:
+      74: -5149677948373229030
+    second: IndoorftArecaPalmArtificialTree|Mesh|Take 001|Layer 001
+  - first:
+      74: -6250316689661341000
+    second: IndoorftArecaPalmArtificialTree|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -4083519807886784015
+    second: IndoorftArecaPalmArtificialTree|Mesh|Take 001|Layer 001.002
+  - first:
+      74: 3019746303637676686
+    second: IndoorftArecaPalmArtificialTree|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -8933248112115719622
+    second: IndoorftArecaPalmArtificialTree|Mesh|Take 001|Layer 001.004
+  - first:
+      74: 1940509091371183645
+    second: IndoorftArecaPalmArtificialTree|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -7420775976600373268
+    second: IndoorftArecaPalmArtificialTree|Mesh|Take 001|Layer 001.006
+  - first:
+      74: -8564573994083709460
+    second: IndoorftArecaPalmArtificialTree|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 2176117765477644046
+    second: IndoorftArecaPalmArtificialTree|Mesh|Take 001|Layer 001.008
+  - first:
+      74: 5040214326560066485
+    second: IndoorftArecaPalmArtificialTree|Texture Group|Take 001|Layer 001
+  - first:
+      74: -1327645269630816304
+    second: IndoorftArecaPalmArtificialTree.001|Camera|Take 001|Layer 001
+  - first:
+      74: 5399590087913028807
+    second: IndoorftArecaPalmArtificialTree.001|Directional Light|Take 001|Layer
+      001
+  - first:
+      74: -1726600565223588638
+    second: IndoorftArecaPalmArtificialTree.001|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer
+  - first:
+      74: -4676600639193881911
+    second: IndoorftArecaPalmArtificialTree.001|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.001
+  - first:
+      74: 6911702628094402743
+    second: IndoorftArecaPalmArtificialTree.001|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.002
+  - first:
+      74: -3410203314470678936
+    second: IndoorftArecaPalmArtificialTree.001|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer
+  - first:
+      74: -4979536359482357943
+    second: IndoorftArecaPalmArtificialTree.001|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.001
+  - first:
+      74: -1986185213668874906
+    second: IndoorftArecaPalmArtificialTree.001|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.002
+  - first:
+      74: -4860147960376056428
+    second: IndoorftArecaPalmArtificialTree.001|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer
+  - first:
+      74: -2963177926731031775
+    second: IndoorftArecaPalmArtificialTree.001|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.001
+  - first:
+      74: 5537619866355142418
+    second: IndoorftArecaPalmArtificialTree.001|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.002
+  - first:
+      74: 5827772339954951083
+    second: IndoorftArecaPalmArtificialTree.001|Mesh|Take 001|Layer 001
+  - first:
+      74: -3347091452968273353
+    second: IndoorftArecaPalmArtificialTree.001|Mesh|Take 001|Layer 001.001
+  - first:
+      74: 4871887385724439804
+    second: IndoorftArecaPalmArtificialTree.001|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -7304698689107420379
+    second: IndoorftArecaPalmArtificialTree.001|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 5965547790078151731
+    second: IndoorftArecaPalmArtificialTree.001|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -7684557576687179296
+    second: IndoorftArecaPalmArtificialTree.001|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -7369240087997339039
+    second: IndoorftArecaPalmArtificialTree.001|Mesh|Take 001|Layer 001.006
+  - first:
+      74: -2037701937290129959
+    second: IndoorftArecaPalmArtificialTree.001|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 6151946282348698413
+    second: IndoorftArecaPalmArtificialTree.001|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -4092637615897478698
+    second: IndoorftArecaPalmArtificialTree.001|Texture Group|Take 001|Layer 001
+  - first:
+      74: -4266707503751808411
+    second: IndoorftArecaPalmArtificialTreePot.001|Camera|Take 001|Layer 001
+  - first:
+      74: -6602894387711082350
+    second: IndoorftArecaPalmArtificialTreePot.001|Directional Light|Take 001|Layer
+      001
+  - first:
+      74: 3336147419095659973
+    second: IndoorftArecaPalmArtificialTreePot.001|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer
+  - first:
+      74: 7356489170930057833
+    second: IndoorftArecaPalmArtificialTreePot.001|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.001
+  - first:
+      74: -6619554497607131030
+    second: IndoorftArecaPalmArtificialTreePot.001|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.002
+  - first:
+      74: 3064689351098199262
+    second: IndoorftArecaPalmArtificialTreePot.001|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer
+  - first:
+      74: 5851806455983395188
+    second: IndoorftArecaPalmArtificialTreePot.001|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.001
+  - first:
+      74: 7694827629042367011
+    second: IndoorftArecaPalmArtificialTreePot.001|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.002
+  - first:
+      74: 4183014157320690011
+    second: IndoorftArecaPalmArtificialTreePot.001|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer
+  - first:
+      74: -8414668665982230020
+    second: IndoorftArecaPalmArtificialTreePot.001|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.001
+  - first:
+      74: -5580320427394836114
+    second: IndoorftArecaPalmArtificialTreePot.001|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.002
+  - first:
+      74: 3846343189418476081
+    second: IndoorftArecaPalmArtificialTreePot.001|Mesh|Take 001|Layer 001
+  - first:
+      74: -1504211896637677812
+    second: IndoorftArecaPalmArtificialTreePot.001|Mesh|Take 001|Layer 001.001
+  - first:
+      74: 3412593199573340925
+    second: IndoorftArecaPalmArtificialTreePot.001|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -4797824976164198262
+    second: IndoorftArecaPalmArtificialTreePot.001|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -4927154115131136553
+    second: IndoorftArecaPalmArtificialTreePot.001|Mesh|Take 001|Layer 001.004
+  - first:
+      74: 5043118221803526815
+    second: IndoorftArecaPalmArtificialTreePot.001|Mesh|Take 001|Layer 001.005
+  - first:
+      74: 2191351505717435537
+    second: IndoorftArecaPalmArtificialTreePot.001|Mesh|Take 001|Layer 001.006
+  - first:
+      74: 7031778709221300919
+    second: IndoorftArecaPalmArtificialTreePot.001|Mesh|Take 001|Layer 001.007
+  - first:
+      74: -9189957102933432305
+    second: IndoorftArecaPalmArtificialTreePot.001|Mesh|Take 001|Layer 001.008
+  - first:
+      74: 1272852999208175913
+    second: IndoorftArecaPalmArtificialTreePot.001|Texture Group|Take 001|Layer 001
+  - first:
+      74: -1536861818640775504
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Camera|Take 001|Layer 001
+  - first:
+      74: -7630055800536166500
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Directional Light|Take 001|Layer
+      001
+  - first:
+      74: 3710781971615246208
+    second: IndoorftArecaPalmArtificialTreeRocks.001|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer
+  - first:
+      74: -4746855944514457640
+    second: IndoorftArecaPalmArtificialTreeRocks.001|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.001
+  - first:
+      74: 5371465060991616479
+    second: IndoorftArecaPalmArtificialTreeRocks.001|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.002
+  - first:
+      74: -129350238255255852
+    second: IndoorftArecaPalmArtificialTreeRocks.001|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer
+  - first:
+      74: 4220586680028764390
+    second: IndoorftArecaPalmArtificialTreeRocks.001|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.001
+  - first:
+      74: -860928541581042019
+    second: IndoorftArecaPalmArtificialTreeRocks.001|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.002
+  - first:
+      74: -6038393498783889610
+    second: IndoorftArecaPalmArtificialTreeRocks.001|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer
+  - first:
+      74: -2392170769772367530
+    second: IndoorftArecaPalmArtificialTreeRocks.001|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.001
+  - first:
+      74: 3415600284471131587
+    second: IndoorftArecaPalmArtificialTreeRocks.001|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.002
+  - first:
+      74: 5675949709896638395
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Mesh|Take 001|Layer 001
+  - first:
+      74: -428352744394479481
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -2568221860358183834
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -6614095661593440967
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 8232300782487388324
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -3421214427220360455
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Mesh|Take 001|Layer 001.005
+  - first:
+      74: 3862580745494545855
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Mesh|Take 001|Layer 001.006
+  - first:
+      74: 8940811735503222724
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 3522379443394186362
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -4990249937293233861
+    second: IndoorftArecaPalmArtificialTreeRocks.001|Texture Group|Take 001|Layer
+      001
+  - first:
+      74: 189544097301390793
+    second: IndoorftArecaPalmArtificialTree.002|Camera|Take 001|Layer 001
+  - first:
+      74: -8291541836910701171
+    second: IndoorftArecaPalmArtificialTree.002|Directional Light|Take 001|Layer
+      001
+  - first:
+      74: 4954939206026590234
+    second: IndoorftArecaPalmArtificialTree.002|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer
+  - first:
+      74: 170219499219953379
+    second: IndoorftArecaPalmArtificialTree.002|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.001
+  - first:
+      74: 6112514666703766428
+    second: IndoorftArecaPalmArtificialTree.002|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.002
+  - first:
+      74: -995589484176294262
+    second: IndoorftArecaPalmArtificialTree.002|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer
+  - first:
+      74: -7664253272222934521
+    second: IndoorftArecaPalmArtificialTree.002|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.001
+  - first:
+      74: 3132366676857235222
+    second: IndoorftArecaPalmArtificialTree.002|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.002
+  - first:
+      74: -7528009807234618629
+    second: IndoorftArecaPalmArtificialTree.002|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer
+  - first:
+      74: -5719674916668815126
+    second: IndoorftArecaPalmArtificialTree.002|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.001
+  - first:
+      74: 3881125729759612555
+    second: IndoorftArecaPalmArtificialTree.002|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.002
+  - first:
+      74: -1272341348541149569
+    second: IndoorftArecaPalmArtificialTree.002|Mesh|Take 001|Layer 001
+  - first:
+      74: 2644929720892379534
+    second: IndoorftArecaPalmArtificialTree.002|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -4584804327544406341
+    second: IndoorftArecaPalmArtificialTree.002|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -6177575592333992343
+    second: IndoorftArecaPalmArtificialTree.002|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -9161456181855944232
+    second: IndoorftArecaPalmArtificialTree.002|Mesh|Take 001|Layer 001.004
+  - first:
+      74: 7644916143617040868
+    second: IndoorftArecaPalmArtificialTree.002|Mesh|Take 001|Layer 001.005
+  - first:
+      74: 4366772856203294641
+    second: IndoorftArecaPalmArtificialTree.002|Mesh|Take 001|Layer 001.006
+  - first:
+      74: -7547696150289442218
+    second: IndoorftArecaPalmArtificialTree.002|Mesh|Take 001|Layer 001.007
+  - first:
+      74: -3143653879629869766
+    second: IndoorftArecaPalmArtificialTree.002|Mesh|Take 001|Layer 001.008
+  - first:
+      74: 6778920169900798747
+    second: IndoorftArecaPalmArtificialTree.002|Texture Group|Take 001|Layer 001
+  - first:
+      74: 4581734354423880735
+    second: IndoorftArecaPalmArtificialTreePot.002|Camera|Take 001|Layer 001
+  - first:
+      74: -8713263108977569330
+    second: IndoorftArecaPalmArtificialTreePot.002|Directional Light|Take 001|Layer
+      001
+  - first:
+      74: -2803626772545640211
+    second: IndoorftArecaPalmArtificialTreePot.002|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer
+  - first:
+      74: 8517019575699504969
+    second: IndoorftArecaPalmArtificialTreePot.002|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.001
+  - first:
+      74: 5958661646229355399
+    second: IndoorftArecaPalmArtificialTreePot.002|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.002
+  - first:
+      74: 465505906676658999
+    second: IndoorftArecaPalmArtificialTreePot.002|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer
+  - first:
+      74: 3838979319316056231
+    second: IndoorftArecaPalmArtificialTreePot.002|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.001
+  - first:
+      74: 4704182270326453273
+    second: IndoorftArecaPalmArtificialTreePot.002|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.002
+  - first:
+      74: 549044122599293093
+    second: IndoorftArecaPalmArtificialTreePot.002|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer
+  - first:
+      74: 5981012358046393776
+    second: IndoorftArecaPalmArtificialTreePot.002|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.001
+  - first:
+      74: 4987219735424951791
+    second: IndoorftArecaPalmArtificialTreePot.002|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.002
+  - first:
+      74: 7044909016478468872
+    second: IndoorftArecaPalmArtificialTreePot.002|Mesh|Take 001|Layer 001
+  - first:
+      74: -2721215078495918805
+    second: IndoorftArecaPalmArtificialTreePot.002|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -2465136276936812380
+    second: IndoorftArecaPalmArtificialTreePot.002|Mesh|Take 001|Layer 001.002
+  - first:
+      74: 5772235248693245405
+    second: IndoorftArecaPalmArtificialTreePot.002|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 4545910442972657485
+    second: IndoorftArecaPalmArtificialTreePot.002|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -7866660757097829245
+    second: IndoorftArecaPalmArtificialTreePot.002|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -5960682185397771015
+    second: IndoorftArecaPalmArtificialTreePot.002|Mesh|Take 001|Layer 001.006
+  - first:
+      74: -1061595112258700413
+    second: IndoorftArecaPalmArtificialTreePot.002|Mesh|Take 001|Layer 001.007
+  - first:
+      74: 6458572207195285561
+    second: IndoorftArecaPalmArtificialTreePot.002|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -7810073296301715606
+    second: IndoorftArecaPalmArtificialTreePot.002|Texture Group|Take 001|Layer 001
+  - first:
+      74: -2641654951730876019
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Camera|Take 001|Layer 001
+  - first:
+      74: -5818456615750323890
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Directional Light|Take 001|Layer
+      001
+  - first:
+      74: 5049877846904226223
+    second: IndoorftArecaPalmArtificialTreeRocks.002|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer
+  - first:
+      74: 988443971369759620
+    second: IndoorftArecaPalmArtificialTreeRocks.002|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.001
+  - first:
+      74: -1439264943026243023
+    second: IndoorftArecaPalmArtificialTreeRocks.002|IndoorftArecaPalmArtificialTreePot|Take
+      001|BaseLayer.002
+  - first:
+      74: 3147939128741490765
+    second: IndoorftArecaPalmArtificialTreeRocks.002|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer
+  - first:
+      74: -6521008263180284218
+    second: IndoorftArecaPalmArtificialTreeRocks.002|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.001
+  - first:
+      74: -758517994749018339
+    second: IndoorftArecaPalmArtificialTreeRocks.002|IndoorftArecaPalmArtificialTreeRocks|Take
+      001|BaseLayer.002
+  - first:
+      74: -4226216380423441979
+    second: IndoorftArecaPalmArtificialTreeRocks.002|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer
+  - first:
+      74: 5442176646753255498
+    second: IndoorftArecaPalmArtificialTreeRocks.002|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.001
+  - first:
+      74: 7473801069485746804
+    second: IndoorftArecaPalmArtificialTreeRocks.002|IndoorftArecaPalmArtificialTree|Take
+      001|BaseLayer.002
+  - first:
+      74: 319691540956091339
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Mesh|Take 001|Layer 001
+  - first:
+      74: -4599768496187615828
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Mesh|Take 001|Layer 001.001
+  - first:
+      74: 9183938835024952997
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Mesh|Take 001|Layer 001.002
+  - first:
+      74: 7797394012818608580
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Mesh|Take 001|Layer 001.003
+  - first:
+      74: -2995757815612312558
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Mesh|Take 001|Layer 001.004
+  - first:
+      74: 8792961404880305626
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -7671834298333494078
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Mesh|Take 001|Layer 001.006
+  - first:
+      74: -2446070972925639180
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Mesh|Take 001|Layer 001.007
+  - first:
+      74: -4063036542588090252
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Mesh|Take 001|Layer 001.008
+  - first:
+      74: -6708036379986796206
+    second: IndoorftArecaPalmArtificialTreeRocks.002|Texture Group|Take 001|Layer
+      001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

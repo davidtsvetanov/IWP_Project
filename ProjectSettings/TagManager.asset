@@ -16,6 +16,10 @@ TagManager:
   - blueBullet
   - green
   - pink
+  - YellowCookie
+  - GreenCookie
+  - PinkCookie
+  - BlueCookie
   layers:
   - Default
   - TransparentFX

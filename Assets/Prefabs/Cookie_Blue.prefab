@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: -6780073587236281420}
   m_Layer: 0
   m_Name: Cookie_Blue
-  m_TagString: blueBullet
+  m_TagString: BlueCookie
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
