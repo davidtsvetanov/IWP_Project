@@ -20,6 +20,8 @@ TagManager:
   - GreenCookie
   - PinkCookie
   - BlueCookie
+  - GlassBottle
+  - Bullet
   layers:
   - Default
   - TransparentFX
