@@ -36,7 +36,7 @@ public class CookieButton : MonoBehaviour
         if (other.tag == "Hands")
         {
             Debug.Log("topkaaa");
-            button.transform.localPosition = new Vector3(0, 0.78f, 0);
+            button.transform.localPosition = new Vector3(0, 0, 0);
             onRelease.Invoke();
             isPressed = false;
 
