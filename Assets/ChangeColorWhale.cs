@@ -39,7 +39,7 @@ public class ChangeColorWhale : MonoBehaviour
         if (collision.gameObject.tag == "PinkCookie")
         {
             gameObject.GetComponent<Renderer>().material = WhalePink;
-            Debug.Log("there is collision");
+            //Debug.Log("there is collision");
 
         }
     }

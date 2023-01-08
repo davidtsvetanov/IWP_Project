@@ -24,7 +24,7 @@ public class CookieButton : MonoBehaviour
     {
         if (!isPressed)
         {
-            button.transform.localPosition = new Vector3(0, 0.71f, 0);
+            button.transform.localPosition = new Vector3(0, -0.034f, 0);
 
             onPress.Invoke();
             isPressed = true;
