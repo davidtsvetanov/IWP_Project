@@ -13,7 +13,7 @@ public class Spawner : MonoBehaviour
     void Start()
     {
         // Invoke the Spawn method every second
-        InvokeRepeating("Spawn", 1, 1);
+        InvokeRepeating("Spawn", 4, 15);
     }
 
     void Spawn()
@@ -26,6 +26,7 @@ public class Spawner : MonoBehaviour
 
         // Spawn the prefab at the spawner's position
         GameObject spawnedObject = Instantiate(prefab, transform.position, Quaternion.identity);
+        spawnedObject.transform.rotation =  Quaternion.Euler(0, 90, 0); 
 
         // Move the spawned object towards the target
         StartCoroutine(MoveTowardsTarget(spawnedObject));

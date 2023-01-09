@@ -22,6 +22,9 @@ TagManager:
   - BlueCookie
   - GlassBottle
   - Bullet
+  - BowlingBall
+  - kegel
+  - floor
   layers:
   - Default
   - TransparentFX
