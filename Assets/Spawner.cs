@@ -13,7 +13,7 @@ public class Spawner : MonoBehaviour
     void Start()
     {
         // Invoke the Spawn method every second
-        InvokeRepeating("Spawn", 4, 15);
+        InvokeRepeating("Spawn", 6, 150);
     }
 
     void Spawn()
