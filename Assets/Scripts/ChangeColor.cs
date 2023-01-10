@@ -40,5 +40,10 @@ public class ChangeColor : MonoBehaviour
             gameObject.GetComponent<Renderer>().material.color = Color.black;
 
         }
+        if (collision.gameObject.tag == "WhiteBullet")
+        {
+            gameObject.GetComponent<Renderer>().material.color = Color.white;
+
+        }
     }
 }

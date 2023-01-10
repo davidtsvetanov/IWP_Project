@@ -25,6 +25,7 @@ TagManager:
   - BowlingBall
   - kegel
   - floor
+  - WhiteBullet
   layers:
   - Default
   - TransparentFX
